@@ -3,7 +3,7 @@
 
 
 <h1 align="center"> 👋🏻¡Holaa Mundo! soy Sebastian Cerpa Perez <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center"> Estudiante de Ingeniería de Sistemas, desarrollador principiante apasionado en C# y frontend </h3>
+<h3 align="center"> Estudiante de Ingeniería de Sistemas, desarrollador principiante apasionado en C# Backend y Frontend </h3>
 
   👱🏼**SOBRE MI:**
 

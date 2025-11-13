@@ -23,7 +23,7 @@
 </div>
 
 <h3 align="center">LENGUAJES Y HERRAMIENTAS:</h3>
-<div align="">
+<div align=>
   
 ![Iimage](https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg)
 ![Iimage](https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png)

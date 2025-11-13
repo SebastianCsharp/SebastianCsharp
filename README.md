@@ -5,7 +5,7 @@
 
 - 🌱 Estoy aprendiendo **C#, frontend, Conexión base de datos**
 
-- 👯 Bueno y espero colaborar en preoyectos **Backend y Fronted**
+- 👯 Quiero y espero colaborar en preoyectos **Backend y Fronted**
 
 - 📫Mi correo electronico es: **sebasgamer678@gmail.com**
 

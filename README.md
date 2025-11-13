@@ -1,9 +1,9 @@
 <h1 align="center">Holaa 👋, Soy Sebastian Cerpa <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center"> Estudiante de Ingeniería de Sistemas, desarrollador principiante apasionado en C# y frontend </h3>
 
-- 🔭 Actualmente estoy trabajando en mi curso de **POO, .NET y frontend.**
+- 🔭 Actualmente estoy trabajando en mi curso de **C#, POO, .NET y frontend.**
 
-- 🌱 Estoy aprendiendo **C#, frontend, Conexión base de datos**
+- 🌱 Estoy aprendiendo **C#, frontend, Conexión base de datos, entre otras cosas**
 
 - 👯 Quiero y espero colaborar en preoyectos **Backend y Fronted**
 

@@ -3,15 +3,15 @@
 <h1 align="center">Holaa Mundo 👋🏻, yo soy Sebastian Cerpa <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center"> Estudiante de Ingeniería de Sistemas, desarrollador principiante apasionado en C# y frontend </h3>
 
-- 🔭 Actualmente estoy trabajando en mi curso de **C#, POO, .NET y frontend.**
+- 👨🏻‍💻 Actualmente estoy trabajando en mi curso de **C#, POO, .NET y frontend.**
 
-- 🌱 Estoy aprendiendo **C#, frontend, Conexión base de datos, entre otras cosas**
+- ✍🏼 Estoy aprendiendo **C#, frontend, Conexión base de datos, entre otras cosas**
 
-- 👯 Quiero y espero colaborar en proyectos **Backend y Fronted**
+- 👨🏻‍🎓 Quiero y espero colaborar en proyectos **Backend y Fronted**
 
-- 📫Mi correo electronico es: **sebasgamer678@gmail.com**
+- 📞  **+57 314-864-1469**
 
-- ⚡ Me gusta el deporte, la disciplina, respeto y colaboración 
+- ⚽ Me gusta el deporte, la disciplina, respeto y colaboración 
 
 <h3 align="center">CONTÁCTAME ⬇️:</h3>
 <div align="center">

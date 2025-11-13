@@ -1,15 +1,15 @@
 <h1 align="center">Holaa 👋, Soy Sebastian Cerpa <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center"> Estudiante de Ingeniería de Sistemas, desarrollador principiante apasionado en C# y frontend </h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 Actualmente estoy trabajando en mi curso de **POO, .NET y frontend.**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 Estoy aprendiendo **C#, frontend, Conexión base de datos**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 👯 Bueno y espero colaborar en preoyectos **Backend y Fronted**
 
-- 📫 How to reach me: **brantlauro@gmail.com**
+- 📫Mi correo electronico es: **sebasgamer678@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ Me gusta el deporte, la diciplina, respeto y colaboración 
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">

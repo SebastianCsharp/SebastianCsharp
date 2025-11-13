@@ -20,7 +20,7 @@
 <h3 align="center">CONTÁCTAME ⬇️</h3>
 <div align="center">
   
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBmzjqFGnzvpqvxzjXjPSFCJBFWxSBVHvXZBzdsMHgvhskppvGvLjDDSlkPbhNGqhRTWJWP)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:sebasgamer678@gmail.com)
 
 <h3 align = "center"> HERRAMIENTAS 🛠️ </h3>
 <div align>

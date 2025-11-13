@@ -23,13 +23,15 @@
 <div align>
 
 ![Csharp](https://img.shields.io/badge/Csharp-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
+<h3 align = "center"> Base de datos 🔐 </h3>
+
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 
 ![Aditya Vikram Singh Banner](https://www.thebanner.org/sites/default/files/styles/article_detail_header/public/TIN-602%20Spiderman_Homecoming_large_all.jpg?itok=28Cw_kpr)

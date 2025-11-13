@@ -13,8 +13,7 @@
 
 <h3 align="center">Contactate conmigo ⬇️:</h3>
 <div align="center">
-
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://mail.google.com/sebasgamer678@gmail.com.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
   
 </div>
 

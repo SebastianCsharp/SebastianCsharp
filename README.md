@@ -9,7 +9,7 @@
 
 - 📫Mi correo electronico es: **sebasgamer678@gmail.com**
 
-- ⚡ Me gusta el deporte, la diciplina, respeto y colaboración 
+- ⚡ Me gusta el deporte, la disciplina, respeto y colaboración 
 
 <h3 align="center">CONTÁCTAME ⬇️:</h3>
 <div align="center">

@@ -11,7 +11,7 @@
 
 - ✍🏼 Estoy aprendiendo **C#, frontend, Conexión base de datos, entre otras cosas**
 
-- 👨🏻‍🎓 Quiero y espero colaborar en proyectos **Backend y Fronted**
+- 👨🏻‍🎓 Quiero y espero colaborar en proyectos **Backend y Frontend**
 
 - 📞  **+57 314-864-1469**
 

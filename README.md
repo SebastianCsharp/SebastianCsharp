@@ -24,10 +24,19 @@
 
 <h3 align="center">LENGUAJES Y HERRAMIENTAS:</h3>
 
+  
+<div align="center">
+  
+[![Iimage](https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg)
+
+</div>
+
+
+
 
 
 
 
 [SebastianCsharp](https://github.com/SebastianCsharp)
 
-Last Edited on: 05/08/2021
+

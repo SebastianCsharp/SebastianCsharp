@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://i.pinimg.com/originals/bc/35/70/bc3570011c9d166f7a2b39d921f2a4f6.gif)
+![Aditya Vikram Singh Banner](https://i.pinimg.com/736x/75/6e/92/756e9272addab7f73d334cefad1d6fe1.jpg)
 
 <h1 align="center">Holaa 👋, Soy Sebastian Cerpa <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center"> Estudiante de Ingeniería de Sistemas, desarrollador principiante apasionado en C# y frontend </h3>

@@ -25,9 +25,9 @@
 <h3 align="center">LENGUAJES Y HERRAMIENTAS:</h3>
 
   
-<div align="center">
+<div align="">
   
-[![Iimage](https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg)
+![Iimage](https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg)
 
 </div>
 

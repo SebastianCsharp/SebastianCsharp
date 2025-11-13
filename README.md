@@ -14,7 +14,7 @@
 <h3 align="center">Contactate conmigo ⬇️:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sebasgamer678@gmail.com.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red)](sebasgamer678@gmail.com.com)
   
 </div>
 

@@ -24,7 +24,7 @@
 <h3 align = "center"> HERRAMIENTAS 🛠️ </h3>
 <div align>
 
-![Csharp](https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg) 
+![Csharp](https://img.shields.io/badge/Csharp-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)

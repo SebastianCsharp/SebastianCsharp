@@ -22,7 +22,9 @@
 
 
 <h3 align = "center"> HERRAMIENTAS 🛠️ </h3>
-
+<div align>
+  
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 [SebastianCsharp](https://github.com/SebastianCsharp)
 

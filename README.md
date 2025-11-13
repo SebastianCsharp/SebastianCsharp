@@ -33,6 +33,8 @@
 
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 
+<h3 align = "center"> YA SABES PARA COLABORAR, CONTÁCTAME🙋🏼‍♂️ </h3>
+
 
 ![Aditya Vikram Singh Banner](https://www.thebanner.org/sites/default/files/styles/article_detail_header/public/TIN-602%20Spiderman_Homecoming_large_all.jpg?itok=28Cw_kpr)
 

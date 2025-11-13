@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://i.pinimg.com/736x/75/6e/92/756e9272addab7f73d334cefad1d6fe1.jpg)
+![Aditya Vikram Singh Banner](https://atomicjunkshop.com/wp-content/uploads/2020/03/Banner-from-davestrailerpage.jpg)
 
 <h1 align="center">Holaa 👋, Soy Sebastian Cerpa <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center"> Estudiante de Ingeniería de Sistemas, desarrollador principiante apasionado en C# y frontend </h3>

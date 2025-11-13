@@ -19,8 +19,6 @@
   
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://sebasgamer678@gmail.com)
 
-![Aditya Vikram Singh Banner](https://www.thebanner.org/sites/default/files/styles/article_detail_header/public/TIN-602%20Spiderman_Homecoming_large_all.jpg?itok=28Cw_kpr)
-
 <h3 align = "center"> HERRAMIENTAS 🛠️ </h3>
 <div align>
 
@@ -31,6 +29,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+
+
+![Aditya Vikram Singh Banner](https://www.thebanner.org/sites/default/files/styles/article_detail_header/public/TIN-602%20Spiderman_Homecoming_large_all.jpg?itok=28Cw_kpr)
+
+
+
 
 
 

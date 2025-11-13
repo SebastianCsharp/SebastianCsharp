@@ -1,5 +1,5 @@
 <h1 align="center">Holaa 👋, Soy Sebastian Cerpa <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h3 align="center"> Estudiante de Ingeniería de Sistemas, desarrollador principiante apasionado en C# y frontend </h3>
 
 - 🔭 I’m currently working on my **Python Course**
 
